@@ -29,7 +29,7 @@ The second browser window contains a remote JupyterLab interface into your Jetso
 
 The course consists of three main sections. Use the navigation and breadcrumb links at the top of each section to step through the lessons.
 
-[<h2>1. Setting Up Your Jetson Nano</h2>](./setting-up-your-jetson-nano/README.md)
+## [1. Setting Up Your Jetson Nano](setting-up-your-jetson-nano/README.md)
 
 Step-by-step guide to set up your hardware and software for the course projects
 
@@ -53,7 +53,7 @@ Step-by-step guide to set up your hardware and software for the course projects
 
   A brief introduction to the JupyterLab interface and notebooks
 
-[<h2>2. Image Classification</h2>](./image-classification/README.md)
+## [2. Image Classification](image-classification/README.md)
 
 Background information and instructions to create projects that classify images using Deep Learning
 
@@ -81,7 +81,7 @@ Background information and instructions to create projects that classify images 
 
   Answer questions about what you've learned to reinforce your knowledge
 
-[<h2>3. Image Regression</h2>](./image-regression/README.md)
+## [3. Image Regression](image-regression/README.md)
 
 Instructions to create projects that can localize and track image features in a live camera image
 
