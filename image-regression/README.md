@@ -1,6 +1,6 @@
-# Outline
+# Image Regression
 
-- [Outline](#outline)
+- [Image Regression](#image-regression)
 - [Classification Vs. Regression](#classification-vs-regression)
   - [Continuous Outputs](#continuous-outputs)
   - [Changing the final layer](#changing-the-final-layer)
