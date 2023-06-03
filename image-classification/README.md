@@ -1,6 +1,6 @@
-# Outline
+# Image Classification
 
-- [Outline](#outline)
+- [Image Classification](#image-classification)
 - [AI And Deep Learning](#ai-and-deep-learning)
   - [AI and Deep Learning](#ai-and-deep-learning-1)
   - [Deep Learning Models](#deep-learning-models)
